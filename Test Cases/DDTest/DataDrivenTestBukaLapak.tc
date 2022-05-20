@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTestBukaLapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f999551c-523c-49ad-87c0-73acfd735501</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>709adeea-5511-4fb4-86e7-0bfd8f40112a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>709adeea-5511-4fb4-86e7-0bfd8f40112a</id>
+      <masked>false</masked>
+      <name>nomerhp</name>
+   </variable>
+</TestCaseEntity>

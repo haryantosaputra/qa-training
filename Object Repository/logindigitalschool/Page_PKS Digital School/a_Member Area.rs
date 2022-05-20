@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Member Area</name>
+   <tag></tag>
+   <elementGuidId>4934c472-c145-47c2-b73f-bf8a1da5845c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.d-xl-none.d-md-block.d-sm-block > a.nav-link-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='append-menu-header']/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae1fd0cc-94b3-43f7-90ef-c85fad6ba7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://member.pksdigitalschool.id/login</value>
+      <webElementGuid>a0fe4aa2-42bf-4bfd-80a9-6b716d6f7a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link-item</value>
+      <webElementGuid>c21056d6-49e9-44ab-aead-9ee9b549cc73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member Area</value>
+      <webElementGuid>646fc863-b273-400b-969b-5f106a51704f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;append-menu-header&quot;)/ul[@class=&quot;site-menu-main&quot;]/li[@class=&quot;nav-item d-xl-none d-md-block d-sm-block&quot;]/a[@class=&quot;nav-link-item&quot;]</value>
+      <webElementGuid>c5620305-f2c4-4f23-8899-80e4c7090196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>11c4cce7-74c9-43ad-ad62-555a2700403e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://member.pksdigitalschool.id/login</value>
+      <webElementGuid>718c57ff-85b7-49e5-84c1-97a02d9415ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link-item</value>
+      <webElementGuid>63e7005c-8bb5-424d-8d5d-cddf6c7cd7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member Area</value>
+      <webElementGuid>d7df5dbc-249e-4f49-815b-981ba86e31c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;append-menu-header&quot;)/ul[@class=&quot;site-menu-main&quot;]/li[@class=&quot;nav-item d-xl-none d-md-block d-sm-block&quot;]/a[@class=&quot;nav-link-item&quot;]</value>
+      <webElementGuid>6e7f318b-4ff1-465a-9e7c-c46447732bb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='append-menu-header']/ul/li[8]/a</value>
+      <webElementGuid>cd48c9a1-e959-4ad2-a7cf-2ed2867da95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Member Area')]</value>
+      <webElementGuid>dc05981d-0bde-4c26-b7a3-b7b3bb40e200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[1]</value>
+      <webElementGuid>73b9422b-792a-4f3b-9dda-81a0db86de89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya'])[1]/following::a[2]</value>
+      <webElementGuid>61000c4b-9dae-4fe9-b62c-2dc998766ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Area'])[2]/preceding::a[1]</value>
+      <webElementGuid>df112637-b348-471d-bb7c-b53e021aed11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIGITAL SKILL UNTUK SEMUA'])[1]/preceding::a[2]</value>
+      <webElementGuid>419050b8-faac-4def-b721-7d72d78e54b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Member Area']/parent::*</value>
+      <webElementGuid>a89389df-d8ac-4494-a2d2-8c06a775035b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://member.pksdigitalschool.id/login')]</value>
+      <webElementGuid>0f6f4e3d-ac54-407e-9d75-360f73de3d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>1f38d7d5-b925-4b0f-b34e-9be89c674051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://member.pksdigitalschool.id/login' and (text() = 'Member Area' or . = 'Member Area')]</value>
+      <webElementGuid>0a4456e0-7086-404c-aa0c-952310b29a96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

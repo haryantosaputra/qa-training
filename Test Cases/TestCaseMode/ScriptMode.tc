@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test manual script mode</description>
+   <name>ScriptMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>739affc4-f86d-4000-a372-d4fd28b53aea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48470152-2053-418c-a204-78d5ac89f13f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f379148-2984-46fd-b3ed-70bc94b75360</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd081ac3-5e1c-49bc-9783-9da92c90eff4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66da52d6-1b01-4b5d-b225-2adefff4452e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe\r\n'</defaultValue>
+      <description></description>
+      <id>48470152-2053-418c-a204-78d5ac89f13f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>3f379148-2984-46fd-b3ed-70bc94b75360</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Make Appointment'</defaultValue>
+      <description></description>
+      <id>dd081ac3-5e1c-49bc-9783-9da92c90eff4</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+   <variable>
+      <defaultValue>'\r\nhttps://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>66da52d6-1b01-4b5d-b225-2adefff4452e</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

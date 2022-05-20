@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case record Mode Gitlab</description>
+   <name>RecordModeGitlab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b51915ae-e8f0-404c-8f6b-52b7aed2dc6f</testCaseGuid>
+</TestCaseEntity>
